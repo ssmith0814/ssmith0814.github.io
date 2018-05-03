@@ -15,7 +15,11 @@ p {
   font-size: 20px;
 }
 
-.intro {
+h1.intro {
+  text-align: center;
+}
+
+h2.intro {
   text-align: center;
 }
 
