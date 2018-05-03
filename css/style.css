@@ -19,3 +19,10 @@ p {
   color: black;
   font-size: 30px;
 }
+
+.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
