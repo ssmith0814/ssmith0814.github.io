@@ -1,14 +1,19 @@
 body {
-  background-color: #008080;
+  background-color: #FF00FF;
  }
  
  h1 {
-  color: #FF0000;
+  color: 	#C0C0C0;
   text-align: center;
 }
 
 p {
+  color: 	#C0C0C0;
   font-family: verdana;
   font-size: 20px;
   text-align: center;
+}
+
+.list {
+  text-align: left;
 }
