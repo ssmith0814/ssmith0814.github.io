@@ -15,6 +15,10 @@ p {
   font-size: 20px;
 }
 
+.intro {
+  text-align: center;
+}
+
 .name {
   color: black;
   font-size: 30px;
