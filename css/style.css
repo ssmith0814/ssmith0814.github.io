@@ -11,9 +11,10 @@ p {
   color: 	#C0C0C0;
   font-family: verdana;
   font-size: 20px;
-  text-align: center;
+  text-align: left;
 }
 
-.list {
-  text-align: left;
+.name {
+  color: black;
+  text-align: center;
 }
