@@ -22,8 +22,6 @@ p {
 
 .center {
    display: block;
-   margin-left: auto;
-   margin-right: auto;
    width: 200;
    height: 350;
 }
